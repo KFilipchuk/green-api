@@ -1,0 +1,13 @@
+.Message {
+  display: flex;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.received {
+  background-color: rgba(blue, 0.3);
+}
+
+.sent {
+  background-color: rgba(green, 0.5);
+}

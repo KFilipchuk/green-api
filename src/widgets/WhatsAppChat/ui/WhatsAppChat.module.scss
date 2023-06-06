@@ -1,0 +1,19 @@
+.WhatsAppChat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.MessagesContainer {
+  min-width: 50%;
+  border: 1px solid #000;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: auto;
+}
+
+
